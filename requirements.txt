@@ -5,10 +5,12 @@ ipywidgets
 pandas
 seaborn
 plotly
-bqplot
-voila
 dash
 jupyter-dash
+networkx
+dash-cytoscape
 altair
 altair_latimes
 vega_datasets
+bokeh
+jupyter_server_proxy
